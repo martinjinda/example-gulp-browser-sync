@@ -1,2 +1,2 @@
 # example-gulp-browser-sync
-An example for basic settings of gulp and BrowserSync
+An example of Gulp setting for easier developing website templates with SASS and BrowserSync.
