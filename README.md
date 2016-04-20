@@ -1,2 +1,2 @@
 # example-gulp-browser-sync
-Example for basic setting of gulp and BrowserSync
+An example for basic settings of gulp and BrowserSync
